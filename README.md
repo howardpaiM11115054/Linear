@@ -1,2 +1,2 @@
 # My Project
-<img src="images/mot" width="400"/>
+<img src="images/MOT.png" width="400"/>
